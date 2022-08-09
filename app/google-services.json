@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "975878703697",
+    "firebase_url": "https://epursuit-eef8b-default-rtdb.firebaseio.com",
+    "project_id": "epursuit-eef8b",
+    "storage_bucket": "epursuit-eef8b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:975878703697:android:a8b6252d014b33851f0670",
+        "android_client_info": {
+          "package_name": "com.jerucloud.epursuit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "975878703697-1uc8g3apv8nklcp61r8dtjei6fh3t4fl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6BDE3YcusdJjPWz-1rEzI6YDJy4dCXhY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "975878703697-1uc8g3apv8nklcp61r8dtjei6fh3t4fl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:975878703697:android:bc921c172ece27d61f0670",
+        "android_client_info": {
+          "package_name": "com.jerucloud.m"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "975878703697-1uc8g3apv8nklcp61r8dtjei6fh3t4fl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6BDE3YcusdJjPWz-1rEzI6YDJy4dCXhY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "975878703697-1uc8g3apv8nklcp61r8dtjei6fh3t4fl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:975878703697:android:a5f6ec809d63bcab1f0670",
+        "android_client_info": {
+          "package_name": "com.jerucloud.manal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "975878703697-1uc8g3apv8nklcp61r8dtjei6fh3t4fl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6BDE3YcusdJjPWz-1rEzI6YDJy4dCXhY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "975878703697-1uc8g3apv8nklcp61r8dtjei6fh3t4fl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
